@@ -1,6 +1,6 @@
 # Beginner Python Programming (Quera)
 
-This repository contains beginner-level Python programming exercises and solutions, organized by topic. The content is based on the Quera Python course and is structured to help learners progress from basic to more advanced concepts.
+This repository contains beginner-level Python programming exercises and solutions, organized by topic. The content is based on the [Quera Python course](https://quera.org/college/landpage/12547/fundamentals-of-python) and is structured to help learners progress from basic to more advanced concepts.
 
 ## Repository Structure
 
