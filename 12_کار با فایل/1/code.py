@@ -1,6 +1,7 @@
-with open("my_belladi_code.txt", "r") as f:
-    n = int(f.readline())
+with open("my_belladi_code.txt", "r") as file:
+    n = int(file.readline().strip())
     total = 0
     for _ in range(n):
-        total += int(f.readline())
-print(total)
+        number = int(file.readline().strip())
+        total += number
+    print(total)
